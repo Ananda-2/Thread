@@ -189,7 +189,7 @@ export const POST = async (request: Request) => {
       const { id } = evnt?.data;
       console.log("deleted", evnt?.data);
 
-      // @ts-ignore
+      // @ts-ignore hello
       await deleteCommunity(id);
 
       return NextResponse.json(
