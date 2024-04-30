@@ -18,7 +18,9 @@
     "svix": "^1.20.0",
     "tailwindcss-animate": "^1.0.7",
     "uploadthing": "^6.5.0",
-    "zod": "^3.23.5"
+    "zod": "^3.23.5",
+    "@hookform/resolvers": "^3.3.4",
+    "react-hook-form": "7.51.3"
   },
   "devDependencies": {
     "@types/node": "^20",
